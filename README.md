@@ -34,7 +34,7 @@ The basic steps to perform Binary Search are:
    
    b. Otherwise, based on the value of the key to be found and the value of the middle element, decide the next search space.
    
-       i. If the target is less than the element at the middle index, set the high index to middle index – 1.
+      i. If the target is less than the element at the middle index, set the high index to middle index – 1.
       
       ii. If the target is greater than the element at the middle index, set the low index to middle index + 1.
      
